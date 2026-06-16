@@ -1,0 +1,4 @@
+interface:
+  display_name: "Doc to PPTX Deck"
+  short_description: "将 Markdown 或 DOCX 转为 HTML 截图型 PPTX"
+  default_prompt: "Use $doc-to-pptx-deck to turn a Markdown or DOCX report into a styled PPTX deck."
